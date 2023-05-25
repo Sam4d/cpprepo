@@ -7,16 +7,16 @@ using namespace std;
         int a = 3;
         int b = 2;
 
-    //     cout<<"The value of a + b = "<<a+b<<endl;
-    //     cout<<"The value of a - b = "<<a-b<<endl;
-    //     cout<<"The value of a * b = "<<a*b<<endl;
-    //     cout<<"The value of a / b = "<<a/b<<endl;
-    //     cout<<"The value of a % b = "<<a%b<<endl;
-    //     cout<<"The value of a + b = "<<a+b<<endl;
-    //     cout<<"The value of a ++ = "<<a++<<endl;
-    //     cout<<"The value of a -- = "<<a--<<endl;
-    //     cout<<"The value of ++ a = "<<++a<<endl;
-    //     cout<<"The value of -- a = "<<--a<<endl;
+        // cout<<"The value of a + b = "<<a+b<<endl;
+        // cout<<"The value of a - b = "<<a-b<<endl;
+        // cout<<"The value of a * b = "<<a*b<<endl;
+        // cout<<"The value of a / b = "<<a/b<<endl;
+        // cout<<"The value of a % b = "<<a%b<<endl;
+        // cout<<"The value of a + b = "<<a+b<<endl;
+        // cout<<"The value of a ++ = "<<a++<<endl;
+        // cout<<"The value of a -- = "<<a--<<endl;
+        // cout<<"The value of ++ a = "<<++a<<endl;
+        // cout<<"The value of -- a = "<<--a<<endl;
 
 // comparison operators
 
@@ -27,6 +27,7 @@ using namespace std;
         cout<<"The value of a <= b is: "<<(a<=b)<<endl;
         cout<<"The value of a >= b is: "<<(a>=b)<<endl;
         cout<<"The value of a != b is: "<<(a!=b)<<endl;
+        cout<<endl;
         
 
         return 0;
