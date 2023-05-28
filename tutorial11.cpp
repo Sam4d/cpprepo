@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// ***using break statements in C++*** 
+
 int main(){
     // for (int i = 0; i < 40; i++)
     // {
