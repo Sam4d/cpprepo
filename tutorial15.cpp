@@ -14,7 +14,9 @@ int main(){
     cout<<"Enter the value of second number: "<<endl;
     cin>>num2;
     // num1 & num2 are actual parameters 
-    
+
+    // actual parameters are also known as arguements and formal parameters are called the parameters or the parameters required while function creation
+
     // you can also use a & b instead of num1 & num2 here and the formal & actual parameters will be the same.
     cout<<"The value of your two numbers = "<<sum(num1, num2);
     g();
